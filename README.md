@@ -1,7 +1,7 @@
 User Contributed Stylesheets for Encoded Archival Description 3
 =============================================================
 
-This repository was created to differentiate between [stylesheets created for EAD 2002](https://github.com/saa-ead-roundtable/ead-stylesheets) and those created for EAD 3. Like the 2002 repository, it is aimed at establishing and maintaining a shared space of stylesheets created by the community of EAD implementers. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [EAD Roundtable](http://www2.archivists.org/groups/encoded-archival-description-ead-roundtable) of the Society of the American Archivists.
+This repository was created to differentiate between [stylesheets created for EAD 2002](https://github.com/saa-ead-roundtable/ead-stylesheets) and those created for EAD 3. Like the 2002 repository, it is aimed at establishing and maintaining a shared space of stylesheets created by the community of EAD implementers. Your stylesheets can be complete, proof-of-concept, started-but-not-quite-finished, under development, etc. This resource is maintained by the [Encoded Archival Standards Section](https://www2.archivists.org/groups/encoded-archival-standards-section) of the Society of the American Archivists.
 
 List of current stylesheets
 ---------------------------
